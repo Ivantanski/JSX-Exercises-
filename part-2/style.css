@@ -1,0 +1,18 @@
+
+.tweet {
+    border: 2px dashed #336699;
+    border-radius: 10px;
+    margin: 15px 10%;
+    padding: 25px;
+    background-color: #f9f9f9;
+  }
+  
+  .username,
+  .date {
+    color: #666;
+    display: inline-block;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  
